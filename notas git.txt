@@ -1,0 +1,10 @@
+Lo primero es iniciar el git
+git init
+Estamos trabajando en el area de working
+una vez iniciado, procedemos a ir añadiendo los cambios
+en el area de staging
+git add .
+finalmente hacemos commit para guardar los cambios
+git commit -m "Cambios a guardar"
+Después faltará subirlo al repositorio en la nube
+git push??
